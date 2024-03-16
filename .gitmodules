@@ -1,9 +1,9 @@
-[submodule "Frontend"]
+[submodule "frontend"]
 	path = frontend
 	url = https://github.com/scott1C/digital-hackaton.git
-[submodule "Flask Backend"]
+[submodule "flask"]
 	path = flask
 	url = https://github.com/YourBestDream/HACKATON-15-03-2024.git
-[submodule "Spring Backend"]
+[submodule "spring"]
 	path = spring
 	url = https://github.com/solomonRei/WLM_Platform.git
